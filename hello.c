@@ -3,7 +3,8 @@
  *
  * This is the longer description. There must be a blank line separating
  * the brief comment from the longer description.
- * Ripping this file from http://www.openlogic.com/wazi/bid/188121/Doxygen-Magically-Turns-Source-Code-into-Documentation
+ * Ripping this file from
+ * http://www.openlogic.com/wazi/bid/188121/Doxygen-Magically-Turns-Source-Code-into-Documentation
  */
 
 /**
@@ -17,6 +18,7 @@
 /**
 * This is a demo comment, which can ramble on for as long
 * as you like
+* Adding a few lines from eclipse
 */
 
 void main()
