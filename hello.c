@@ -11,15 +11,13 @@
  * @file   hello.c
  * @author Abraham
  * @date   19/Dec/2013
-.*/
+ */
 
 #include <stdio.h>
 
 /**
 * This is a demo comment, which can ramble on for as long
 * as you like
-* Adding a few lines from eclipse. Another edit.
-* More edit. :D
 */
 
 void main()
